@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrz\\Documents\\GitHub\\C-Learning\\Hermetyzacja\\Hermetyzacja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8154C869-F414-4565-B2EE-E59EA28BBA62}|Hermetyzacja\\Hermetyzacja.csproj|c:\\users\\andrz\\documents\\github\\c-learning\\hermetyzacja\\hermetyzacja\\hermetyzacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8154C869-F414-4565-B2EE-E59EA28BBA62}|Hermetyzacja\\Hermetyzacja.csproj|solutionrelative:hermetyzacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8154C869-F414-4565-B2EE-E59EA28BBA62}|Hermetyzacja\\Konstruktory.csproj|c:\\users\\andrz\\documents\\github\\c-learning\\hermetyzacja\\hermetyzacja\\hermetyzacja\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8154C869-F414-4565-B2EE-E59EA28BBA62}|Hermetyzacja\\Konstruktory.csproj|solutionrelative:hermetyzacja\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\andrz\\Documents\\GitHub\\C-Learning\\Hermetyzacja\\Hermetyzacja\\Hermetyzacja\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Hermetyzacja\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\andrz\\Documents\\GitHub\\C-Learning\\Hermetyzacja\\Hermetyzacja\\Hermetyzacja\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Hermetyzacja\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:59:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrz\\Documents\\GitHub\\C-Learning\\Hermetyzacja\\Hermetyzacja\\Hermetyzacja\\Program.cs",
+              "RelativeDocumentMoniker": "Hermetyzacja\\Program.cs",
+              "ToolTip": "C:\\Users\\andrz\\Documents\\GitHub\\C-Learning\\Hermetyzacja\\Hermetyzacja\\Hermetyzacja\\Program.cs",
+              "RelativeToolTip": "Hermetyzacja\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:58:16.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

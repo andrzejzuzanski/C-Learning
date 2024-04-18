@@ -1,0 +1,7 @@
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\bin\Debug\Hermetyzacja.exe.config
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\bin\Debug\Hermetyzacja.exe
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\bin\Debug\Hermetyzacja.pdb
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\obj\Debug\Konstruktory.csproj.AssemblyReference.cache
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\obj\Debug\Konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\obj\Debug\Hermetyzacja.exe
+C:\Users\andrz\Documents\GitHub\C-Learning\Hermetyzacja\Hermetyzacja\Hermetyzacja\obj\Debug\Hermetyzacja.pdb
